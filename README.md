@@ -2,7 +2,7 @@
 # Cavaleiro SpringBoot Ebook
 Um Ebook que era para ser gerado a partir de IA, porém ao ser desenvolvido foi feito um MIX entre os prompts e os conhecimentos do autor, como screenshots retiradas para melhor mostrar as funcionalidades e o passo a passo do procedimento.
 
-
+📖​ [Leia aqui]([https://chatgpt.com/](https://github.com/reivictor-dev/cavaleiro-springboot-ebook/blob/main/Cavaleiro%20Springboot%20Ebook.pdf))
 
 ## 💻​ Tecnologias utilizadas
 
